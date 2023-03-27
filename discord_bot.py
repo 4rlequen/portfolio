@@ -7,7 +7,7 @@ import asyncio
 import config
 from discord.ext import commands
 
-TOKEN='MTAzNjY5NDYyNzM3MTE5MjM3MA.Gyj4Tq.Dap728jlRWtDinidmYpQARNmPmMjhI6f9i_oss'
+TOKEN=''
 
 
 base = sqlite3.connect('server.db')
